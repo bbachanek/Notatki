@@ -95,3 +95,38 @@ title="MSN Search">MSN</a>.</p>
 [The New York Times][NY Times].
 
 [ny times]: http://www.nytimes.com/
+
+<p>I start my morning with a cup of coffee and
+<a href="http://www.nytimes.com/">The New York Times</a>.</p>
+
+![alt text](/path/to/img.jpg "Title")
+
+![alt text][id]
+
+[id]: /path/to/img.jpg "Title"
+
+<img src="/path/to/img.jpg" alt="alt text" title="Title" />
+
+I strongly recommend against using any `<blink>` tags.
+
+I wish SmartyPants used named entities like `&mdash;`
+instead of decimal-encoded entites like `&#8212;`.
+
+<p>I strongly recommend against using any
+<code>&lt;blink&gt;</code> tags.</p>
+
+<p>I wish SmartyPants used named entities like
+<code>&amp;mdash;</code> instead of decimal-encoded
+entites like <code>&amp;#8212;</code>.</p>
+
+ <blockquote>
+        <p>For example.</p>
+    </blockquote>
+    
+    <p>If you want your page to validate under XHTML 1.0 Strict,
+you've got to put paragraph tags in your blockquotes:</p>
+
+<pre><code>&lt;blockquote&gt;
+    &lt;p&gt;For example.&lt;/p&gt;
+&lt;/blockquote&gt;
+</code></pre>
