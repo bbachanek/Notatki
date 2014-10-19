@@ -12,6 +12,9 @@ mkdir {dom,nauka/{c,logo,pascal},praca} -p
 int main() {
   return 0;
 }
-...
-Obrazek ![Bash](http://bashdb.sourceforge.net/bashdb-where.png)
+```
+
+Obrazek 
+
+![Bash](http://bashdb.sourceforge.net/bashdb-where.png).
 
