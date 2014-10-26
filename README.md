@@ -1,4 +1,4 @@
-## Bash -- zadania
+## Bash_zadania
 
 1\. Używając lini poleceń stwórz strukturę katalogów:
 
