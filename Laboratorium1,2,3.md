@@ -1,3 +1,4 @@
+### Laboratorium1
 1\. Używając lini poleceń stwórz strukturę katalogów:
 ```sh
 mkdir {dom,nauka/{c,logo,pascal},praca/{dokumenty,zlecenia/{zrealizowane,niezrealizowane}}} -p
@@ -96,7 +97,7 @@ tar -xzf archiwum1.tar.gz
 unzip archiwum2.zip
 ```
 
-3\.Laboratorium
+### Laboratorium3
 
 1\. Wyświetl plik /etc/passwd z podziałem na strony przyjmując, że strona na 5 linii tekstu. (raczej more niż less)
 ```sh
