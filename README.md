@@ -1,3 +1,3 @@
 Notatki
 =======
-https://github.com/bbachanek/zadania-z-basha
+cc nazwa -Wall -cmain.c
