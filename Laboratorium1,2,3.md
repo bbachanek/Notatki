@@ -54,7 +54,7 @@ I jeszcze raz na wrzesień i październik oraz na październik i listopad 2009 r
 ```sh
 cal -m 5 1975
 ```
-2\.Laboratorium
+### Laboratorium2
 
 1\. Wyświetl na ekran 2 pierwsze wiersze pliku program.c. (head)
 ```sh
